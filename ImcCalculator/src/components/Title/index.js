@@ -4,7 +4,7 @@ import {View, Text } from "react-native"
 export default function Title(){
     return(
         <View>
-            <Text>Imc Calculator</Text>
+            <Text>IMC CALCULATOR</Text>
         </View>
     );
 }
