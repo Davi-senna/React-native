@@ -1,3 +1,7 @@
 Como instalar o react Native com yarn
 
 - yarn create expo-app HelloWorld
+
+Iniciando aplicativo
+
+- expo start
